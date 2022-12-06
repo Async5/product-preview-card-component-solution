@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub)
 - Live Site URL: [live site URL](https://deft-beijinho-3089c7.netlify.app/)
 
 ## My process
